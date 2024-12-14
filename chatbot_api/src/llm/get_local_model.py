@@ -6,19 +6,18 @@ from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 from transformers import BitsAndBytesConfig
 
 
-if load_dotenv("/src/.env"):
+if load_dotenv(".env"):
     print("✅✅Environment file in llm loaded successfully")
 else:
     print("❌❌Environment file in llm failed to load")
-
+import getpass
 from huggingface_hub import InferenceClient
-client = InferenceClient(api_key=os.getenv("HUNGGINGFACE_HUB"))
-quantization_config = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype="float16",
-    bnb_4bit_use_double_quant=True,
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = getpass.getpass(
+    "Enter your Hugging Face API key: "
 )
+
+from langchain_huggingface import HuggingFacePipeline
+
 llm = HuggingFacePipeline.from_model_id(
     model_id="vinai/PhoGPT-4B-Chat",
     task="text-generation",
@@ -29,7 +28,6 @@ llm = HuggingFacePipeline.from_model_id(
         repetition_penalty=1.03,
     ),
 )
-
 chat_model = ChatHuggingFace(llm=llm)
 
 
