@@ -152,7 +152,7 @@ async def delete_file(file_id: str):
 # ============================
 
 @async_retry1(max_retries=3, delay=1)
-async def invoke_agent_with_retry(message: Message, timeout: int = 300):
+async def invoke_agent_with_retry(message: Message, timeout: int = 400):
     """
     Retry the agent if a tool fails to run. Helps with intermittent connection issues.
     """

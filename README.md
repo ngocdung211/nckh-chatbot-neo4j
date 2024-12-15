@@ -1,1 +1,1 @@
-# Website-ho-tro-mua-sam-truc-tuyen-ung-dung-LLM
+#Down and load Ollama [text](https://python.langchain.com/docs/integrations/chat/ollama/)

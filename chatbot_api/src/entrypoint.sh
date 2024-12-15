@@ -2,7 +2,7 @@
 
 # Run any setup steps or pre-processing tasks here
 echo "Starting RAG FastAPI service..."
-# export PYTHONPATH="/Users/admin/Working/thaibinh-chatbot"
+export PYTHONPATH="/Users/admin/Working/nckh-chatbot-neo4j"
 
 # Start the main application
 uvicorn main:app --host 0.0.0.0 --port 8081 --reload
