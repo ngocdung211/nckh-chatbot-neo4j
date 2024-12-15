@@ -14,6 +14,12 @@ wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O Mi
 bash Miniconda3-latest-Linux-x86_64.sh -b -p $HOME/miniconda
 export PATH="$HOME/miniconda/bin:$PATH"
 
+
+git config --global user.name "NgocDung211"
+git config --global user.email "ngocdug21103@gmail.com"
+curl -fsSL https://ollama.com/install.sh | sh
+ollama pull mantis_lego696/phogpt_q4_k_m
+
 # Initialize Conda (only needed if this is the first time)
 echo "Initializing Conda..."
 conda init

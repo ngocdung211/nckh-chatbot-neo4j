@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
 
-from transformers import BitsAndBytesConfig
+# from transformers import BitsAndBytesConfig
 
 
 if load_dotenv(".env"):
@@ -12,9 +12,9 @@ else:
     print("❌❌Environment file in llm failed to load")
 import getpass
 from huggingface_hub import InferenceClient
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = getpass.getpass(
-    "Enter your Hugging Face API key: "
-)
+# os.environ["HUGGINGFACEHUB_API_TOKEN"] = getpass.getpass(
+#     "Enter your Hugging Face API key: "
+# )
 
 from langchain_huggingface import HuggingFacePipeline
 
