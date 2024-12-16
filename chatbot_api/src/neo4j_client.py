@@ -55,10 +55,10 @@ class Neo4jClient:
         prev_chunk_id = None
         for chunk in chunks:
             # Construct a unique chunk_id based on file_id and chunk["chunk_id"]
-            page_number = chunk["metadata"]["page_number"] # could be None or an integer
-            element_id = chunk["metadata"]["element_id"]
-            c_id = f"{filename} +page_+{page_number}+_+ {element_id}"
-            text = chunk["page_content"]  # Ensure consistency with chunking function
+            page_number = chunk.metadata['page'] # could be None or an integer
+            element_id = chunk.metadata['CreationDate']
+            c_id = f"{filename} +page_+{page_number}_{uuid.uuid4()} "
+            text = chunk.page_content # Ensure consistency with chunking function
 
             await tx.run("""
             MATCH (f:File {file_id: $file_id})

@@ -6,8 +6,9 @@ from neo4j_client import Neo4jClient
 import logging
 from typing import Optional
 from contextlib import asynccontextmanager
-from handle_unstructure_pdf import chunk_text
-from agents.rag_agent import chat_agent
+# from handle_unstructure_pdf import chunk_text
+from agents.rag_agent import get_agent
+from utils.load_pdf import chunk_text
 from models.schemas import Message, ChatResponse
 from utils.async_utils import async_retry1
 from asyncio import TimeoutError, wait_for
@@ -152,7 +153,7 @@ async def delete_file(file_id: str):
 # ============================
 
 @async_retry1(max_retries=3, delay=1)
-async def invoke_agent_with_retry(message: Message, timeout: int = 400):
+async def invoke_agent_with_retry(message: Message, timeout: int = 30):
     """
     Retry the agent if a tool fails to run. Helps with intermittent connection issues.
     """
@@ -160,7 +161,7 @@ async def invoke_agent_with_retry(message: Message, timeout: int = 400):
     try:
         # Adding a timeout to ensure the query does not hang indefinitely
         response = await wait_for(
-            chat_agent.ainvoke(
+            get_agent().ainvoke(
                 {"input": message.text},
                 {"configurable": {"session_id": message.session}}
             ),
