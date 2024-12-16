@@ -1,10 +1,20 @@
 
 fastapi==0.115.6
 langchain==0.3.11
+<<<<<<< HEAD
 langchain-community==0.3.11
 langchainhub==0.1.21
 neo4j==5.27.0
 opentelemetry-api==1.22.0
+=======
+langchain-openai==0.1.17
+langchain-community==0.2.9
+langchainhub==0.1.21
+neo4j==5.27.0
+openai==1.36.0
+opentelemetry-api==1.22.0
+pydantic==2.5.1
+>>>>>>> 293afdb (add requiemnet files and sh file)
 uvicorn==0.25.0
 six==1.16.0
 python-dotenv
@@ -12,6 +22,7 @@ streamlit
 langchain-neo4j==0.1.1
 langchain-openai==0.2.12
 langchain-ollama==0.2.1
+<<<<<<< HEAD
 ollama
 ragas
 huggingface-hub==0.26.5
@@ -24,3 +35,6 @@ sentencepiece
 jinja2
 bitsandbytes
 accelerate
+=======
+ollama
+>>>>>>> 293afdb (add requiemnet files and sh file)
