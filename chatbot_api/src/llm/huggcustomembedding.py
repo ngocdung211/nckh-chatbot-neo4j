@@ -1,16 +1,25 @@
 from langchain_huggingface import HuggingFaceEmbeddings
+import numpy as np
 
-class CustomEmbeddingModel:
-    def __init__(self, model_name):
-        self.model = HuggingFaceEmbeddings(model_name=model_name)
+def get_hugginface_embedding_DVT():
+    model = HuggingFaceEmbeddings(model_name="dangvantuan/vietnamese-embedding")
+    return model
 
-    def get_embeddings(self, sentences):
-        print("Available methods:", dir(self.model))  # Check available methods
-        return self.model.embed_documents(sentences)  # Use the embed method to get embeddings
+def get_hugginface_embedding_basev2():
+    model = HuggingFaceEmbeddings(model_name="all-mpnet-base-v2")
+    return model
 
-# Usage
-# embedding_model = CustomEmbeddingModel('dangvantuan/vietnamese-embedding')
-embedding_model = CustomEmbeddingModel('sentence-transformers/bert-base-nli-cls-token')
-print("Available methods:", dir(embedding_model))  # Check available methods
-embeddings = embedding_model.get_embeddings(["Hello world!", "This is a test."])
-print(embeddings)
+def get_hugginface_embedding_phobert():
+    model = HuggingFaceEmbeddings(model_name="vinai/phobert-base")
+    return model
+
+def get_hugginface_embedding_allMini():
+    model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    return model
+
+# model = get_hugginface_embedding_DVT()
+# result = model.embed_query("Hi nice to meet you")
+# print(result)
+# print(len(result))
+# # print(np.shape(result))
+

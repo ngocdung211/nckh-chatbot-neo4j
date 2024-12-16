@@ -12,15 +12,9 @@ else:
     print("❌❌Environment file in llm failed to load")
 import getpass
 from huggingface_hub import InferenceClient
-<<<<<<< HEAD
-# os.environ["HUGGINGFACEHUB_API_TOKEN"] = getpass.getpass(
-#     "Enter your Hugging Face API key: "
-# )
-=======
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = getpass.getpass(
     "Enter your Hugging Face API key: "
 )
->>>>>>> e4f780d (push update bit not important)
 
 from langchain_huggingface import HuggingFacePipeline
 
@@ -50,5 +44,5 @@ messages = [
     ),
 ]
 
-ai_msg = chat_model.invoke(messages)
-print(ai_msg.content)
+# ai_msg = chat_model.invoke(messages)
+# print(ai_msg.content)

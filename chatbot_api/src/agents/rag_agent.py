@@ -14,20 +14,19 @@ from chains.semantic_search_chunk_chain import get_chunk_retriever
 
 from tools.tools import get_customer_service_infor
 from llm.get_graph import get_graph_function
+from llm.get_llm import get_model_function
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from llm.get_ollma_model import get_ollama_llama3_model
 
 
 
 print("✅✅call agent step")
 
 graph = get_graph_function()
-model = get_ollama_llama3_model()
-
+model = get_model_function()
 @tool 
 def get_chunk_tool(question: str) -> str:
     "Search for information about the 'Đoàn thanh niên, hội sinh viên' . For any questions in the about 'Đoàn thành niên, hội sinh viên', you must use this tool!"
-    result =  get_chunk_retriever().invoke(question)
+    result =  get_chunk_retriever(name='phobert').invoke(question)
     print(result)
     return result
 
