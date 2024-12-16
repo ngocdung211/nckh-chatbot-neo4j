@@ -163,3 +163,5 @@ cython_debug/
 chunks.csv
 chunks.json
 Miniconda3-latest-Linux-x86_64.sh
+
+nckh-chatbot-neo4j.code-workspace
