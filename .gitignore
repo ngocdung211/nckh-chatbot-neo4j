@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 chunks.csv
 chunks.json
+
+chatbot_api/src/checkgpu.py
+nckh-chatbot-neo4j.code-workspace
+requirements.txt
