@@ -1,0 +1,757 @@
+[
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/du-kien-chi-tieu-va-phuong-thuc-xet-tuyen-cac-nganh-thuoc-khoa-cntt-truong-dai-hoc-cong-nghiep-ha-noi-nam-2025/71207",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/cam-nang-ky-thi-olympic-tin-hoc-sinh-vien-viet-nam-lan-thu-33-olp-24-va-ky-thi-lap-trinh-sinh-vien-quoc-te-icpc-asia-2024/71191",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/khao-sat-muc-do-quan-tam-thi-truong-viec-lam-nhat-ban-dot-2/71188",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/khoi-dong-cuoc-thi-huawei-ict-toan-cau-2024-2025/71185",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/truong-dai-hoc-cong-nghiep-ha-noi-vinh-du-dang-cai-to-chuc-ky-thi-olympic-tin-hoc-sinh-vien-viet-nam-lan-thu-33-olp-24-va-ky-thi-lap-trinh-sinh-vien-quoc-te-icpc-asia-2024/71183",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/thong-bao-to-chuc-chuong-trinh-hoi-thao-thuc-tap-viec-lam-va-thi-tuyen-truc-tiep-cua-cong-ty-tnhh-ani-vina-thu-3-ngay-10-12-2024/71178",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/le-bao-ve-luan-van-thac-si-nganh-he-thong-thong-tin-khoa-12-dot-1-2/71210",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/seminar-chuo-i-ba-i-gia-ng-ve-he-mo-va-u-ng-du-ng/71209",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/chuc-mung-ban-chu-nhiem-khoa-14-cau-lac-bo-tin-hoc-hit/71205",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/gioi-thieu",
+        "title": "GIỚI THIỆU",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/thong-tin-chung",
+        "title": "THÔNG TIN CHUNG",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/bo-may-to-chuc",
+        "title": "CƠ CẤU TỔ CHỨC",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/chien-luoc-phat-trien",
+        "title": "CHIẾN LƯỢC PHÁT TRIỂN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/can-bo-giang-vien",
+        "title": "CÁN BỘ GIẢNG VIÊN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/co-so-vat-chat",
+        "title": "CƠ SỞ VẬT CHẤT",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/dia-chi-lien-he",
+        "title": "LIÊN HỆ",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/khoa-hoc-may-tinh",
+        "title": "KHOA HỌC MÁY TÍNH",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/ky-thuat-phan-mem",
+        "title": "KỸ THUẬT PHẦN MỀM",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/dai-hoc-he-thong-thong-tin",
+        "title": "HỆ THỐNG THÔNG TIN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/cong-nghe-thong-tin",
+        "title": "CÔNG NGHỆ THÔNG TIN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/cong-nghe-da-phuong-tien",
+        "title": "CÔNG NGHỆ ĐA PHƯƠNG TIỆN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/an-toan-thong-tin",
+        "title": "AN TOÀN THÔNG TIN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/sau-dai-hoc",
+        "title": "SAU ĐẠI HỌC",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/cao-hoc-he-thong-thong-tin",
+        "title": "HỆ THỐNG THÔNG TIN",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach",
+        "title": "KẾ HOẠCH",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tien-do",
+        "title": "TIẾN ĐỘ",
+        "category": "tien-do"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/quy-che",
+        "title": "QUY CHẾ, BIỂU MẪU",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/nghien-cuu-khoa-hoc",
+        "title": "NGHIÊN CỨU KHOA HỌC",
+        "category": "nghien-cuu-khoa-hoc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo",
+        "title": "CÔNG TRÌNH CÔNG BỐ",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/de-tai-du-an",
+        "title": "ĐỀ TÀI, DỰ ÁN",
+        "category": "de-tai-du-an"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh",
+        "title": "SINH VIÊN NCKH",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn",
+        "title": "TIN KHCN",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/html/quy-che-sinh-vien",
+        "title": "QUY CHẾ",
+        "category": "html"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang",
+        "title": "GƯƠNG SÁNG SINH VIÊN",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/hoc-bong",
+        "title": "HỌC BỔNG",
+        "category": "hoc-bong"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo",
+        "title": "CÂU LẠC BỘ",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-19-khoa-cong-nghe-thong-tin-dat-hoc-bong-haui-100-toan-khoa-hoc/71060",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/doi-bong-khoa-cong-nghe-thong-tin-cung-nhung-tran-cau-dang-nho/70644",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/dai-hoi-dai-bieu-lien-chi-doan-khoa-cong-nghe-thong-tin-lan-thu-x-nhiem-ky-2022-2024/68570",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/gap-mat-tan-sinh-vien-k15-khoa-cong-nghe-thong-tin/66311",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/chuong-trinh-thuc-tap-tai-svmc-svmc-internship-program-2020/66304",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/cuoc-thi-hoc-sinh-sinh-vien-voi-y-tuong-khoi-nghiep-lan-thu-vii/71208",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/thong-bao-to-chuc-chuong-trinh-hoi-thao-thuc-tap-viec-lam-va-phong-van-truc-tiep-cua-cong-ty-tnhh-new-wing-interconnect-technology-bac-giang-thu-5-ngay-05-12-2024/71171",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/thong-bao-ke-hoach-hoc-ky-phu-1-nam-hoc-2024-2025-cho-sinh-vien-dai-hoc/71169",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/thong-bao-tuyen-sinh-di-hoc-tai-hungari-dien-hiep-dinh-nam-2025/71168",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/huong-dan-cai-dat-ihanoi-buoc-tien-phong-chuyen-doi-so/71166",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/thong-bao-tuyen-sinh-di-hoc-tai-trung-quoc-nam-2025/71165",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/chuc-mung-thanh-cong-ky-thi-olympic-tin-hoc-sinh-vien-viet-nam-lan-thu-33-olp-24-procon-va-ky-thi-lap-trinh-sinh-vien-quoc-te-icpc-asia-hanoi-2024/71204",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/viet-nam-xuat-sac-gianh-2-huy-chuong-vang-tai-icpc-asia-hanoi-2024/71201",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/gay-can-ky-thi-lap-trinh-sinh-vien-quoc-te-asia-hanoi-2024/71200",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/chinh-thuc-khai-mac-ky-thi-lap-trinh-sinh-vien-quoc-te-icpc-chau-a-icpc-asia-hanoi-2024/71199",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/hon-90-thi-sinh-so-tai-tai-giai-procon-vietnam-va-phan-mem-nguon-mo-2024/71198",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/lich-giang-day-mon-phap-luat-tuan-tu-20-4-den-26-4-2020-he-cao-dang-khoa-21/65302",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/danh-sach-cac-lop-hoc-truc-tuyen-tu-ngay-06-4-2020-den-ngay-19-4-2020/65301",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/danh-sach-cac-lop-hoc-truc-tuyen-tu-ngay-30-3-2020-den-ngay-5-4-2020/65300",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/thong-bao/ke-hoach-to-chuc-hoat-dong-day-hoc-tuan-tu-23-03-2020-den-05-04-2020-khoa-cntt/65299",
+        "title": "",
+        "category": "thong-bao"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/doi-haui-nottrashcar-dat-giai-nhi-vong-so-loai-gianh-quyen-buoc-vao-vong-ban-ket-cuoc-dua-so-khu-vuc-mien-bac-nam-2020/64299",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-16-12-den-22-12-2024-khoa-cntt/71202",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-09-12-den-15-12-2024-khoa-cntt/71186",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-02-12-den-08-12-2024-khoa-cntt/71172",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-25-11-den-01-12-2024-khoa-cntt/71161",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-18-11-den-24-11-2024-khoa-cntt/71149",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-01-111-den-17-11-2024-khoa-cntt/71142",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-03-111-den-10-11-2024-khoa-cntt/71128",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-28-10-den-03-11-2024-khoa-cntt/71114",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-21-10-den-27-10-2024-khoa-cntt/71105",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/ke-hoach/lich-thuc-hanh-tuan-tu-14-10-den-20-10-2024-khoa-cntt/71099",
+        "title": "",
+        "category": "ke-hoach"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tien-do/tien-do-dao-tao-nam-hoc-2023-2024/70707",
+        "title": "Tiến độ đào tạo năm học 2023-2024",
+        "category": "tien-do"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tien-do/tien-do-dao-tao-nam-hoc-2022-2023/70706",
+        "title": "Tiến độ đào tạo năm học 2022-2023",
+        "category": "tien-do"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tien-do/tien-do-dao-tao-nam-hoc-2021-2022/67431",
+        "title": "Tiến độ đào tạo năm học 2021-2022",
+        "category": "tien-do"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tien-do/tien-do-dao-tao-nam-hoc-2019-2020/64291",
+        "title": "Tiến độ đào tạo năm học 2019-2020.",
+        "category": "tien-do"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tien-do/tien-do-dao-tao-nam-hoc-2018-2019/61584",
+        "title": "Tiến độ đào tạo năm học 2018-2019",
+        "category": "tien-do"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/quyet-dinh-giao-nhiem-vu-nckh-cho-sinh-vien-nam-hoc-2024-2025/71076",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/61-cong-trinh-khoa-hoc-khoa-cntt-duoc-khen-thuong-tai-le-trao-giai-sinh-vien-nghien-cuu-khoa-hoc-nam-hoc-2023-2024/70955",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2023/70708",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2022/70614",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/sinh-vien-khoa-cong-nghe-thong-tin-dat-giai-cao-tai-hoi-nghi-tong-ket-va-trao-giai-sv-nckh-lan-thu-xii/67482",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/de-tai-du-an/giao-trinh/67460",
+        "title": "",
+        "category": "de-tai-du-an"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/bao-cao-khoa-hoc/67459",
+        "title": "",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/bai-bao-khoa-hoc/67457",
+        "title": "",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/de-tai-du-an/nhiem-vu-khoa-hoc-cong-nghe/67456",
+        "title": "",
+        "category": "de-tai-du-an"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2021/67446",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/mot-tiep-can-trong-phat-hien-va-nhan-dang-mat-nguoi-duoi-su-tro-giup-cua-camera/61942",
+        "title": "Một tiếp cận trong phát hiện và nhận dạng mặt người dưới sự trợ giúp của camera",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/an-algorithm-to-partition-the-field-of-view-camera-in-automatic-surveillance-system/61904",
+        "title": "An Algorithm to Partition the field of View camera in automatic Surveillance system",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/mot-ky-thuat-chieu-sang-trong-trung-bay-ao-dua-va-light-map/61902",
+        "title": "",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/a-method-for-reducing-the-number-of-support-vectors-in-fuzzy-support-vector-machine/60020",
+        "title": "A Method for Reducing the Number of Support Vectors in Fuzzy Support Vector Machine",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/an-algorithm-to-improve-accuracy-of-indoor-positioning/60019",
+        "title": "An Algorithm to Improve Accuracy of Indoor Positioning",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/mot-ky-thuat-phat-hien-bong-doi-tuong-ket-hop-yeu-to-thoi-gian/60017",
+        "title": "Một kỹ thuật phát hiện bóng đối tượng kết hợp yếu tố thời gian",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/anomaly-detection-in-video-surveillance-a-novel-approach-based-on-subtrajectory/60016",
+        "title": "Anomaly Detection in Video Surveillance: A Novel Approach Based on SubTrajectory",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/danh-muc-cong-trinh-da-cong-bo/mot-luoc-do-thuy-van-thuan-nghich-khoa-cong-khai-cho-co-so-du-lieu-dua-tren-ky-thuat-mo-rong-cac-thuoc-tinh-kieu-thuc/60012",
+        "title": "Một lược đồ thủy vân thuận nghịch khóa công khai cho cơ sở dữ liệu dựa trên kỹ thuật mở rộng các thuộc tính kiểu thực",
+        "category": "danh-muc-cong-trinh-da-cong-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2020/67461",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2019/67462",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2018/67463",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2017/67464",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/sinh-vien-nckh/tong-hop-de-tai-sinh-vien-nghien-cuu-khoa-hoc-nam-2016/67465",
+        "title": "",
+        "category": "sinh-vien-nckh"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/sinh-vien-khoa-cong-nghe-thong-tin-dat-giai-cao-nghien-cuu-khoa-hoc-cap-truong-nam-2021/66392",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/nghien-cuu-ung-dung-cong-nghe-internet-of-things-xay-dung-he-thong-nha-kinh-thong-minh/64297",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/nghiem-thu-de-tai-nghien-cuu-khoa-hoc-sinh-vien-cap-truong-nam-2019/62198",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/giang-vien-dai-hoc-cong-nghiep-ha-noi-cong-bo-phuong-phap-xac-dinh-cac-gene-chi-dau-ung-thu-tu-du-lieu-mang-tin-hieu-te-bao-nguoi/61586",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/nghiem-thu-de-tai-nghien-cuu-khoa-hoc-cap-truong/60426",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/le-tong-ket-va-trao-giai-sinh-vien-nghien-cuu-khoa-hoc-lan-thu-ix/60266",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/hoi-thao-ve-lay-y-kien-chuong-trinh-khung-nganh-khoa-hoc-may-tinh-va-he-thong-thong-tin/59589",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-khcn/an-tuong-le-trao-giai-sinh-vien-nghien-cuu-khoa-hoc-lan-thu-viii/58804",
+        "title": "",
+        "category": "tin-khcn"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-ghi-thanh-tich-noi-bat-tai-olympic-tin-hoc-sinh-vien-viet-nam-lan-thu-33-va-ky-thi-lap-trinh-icpc-asia-ha-noi-nam-2024/71203",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-xuat-sac-nhan-hoc-bong-cua-doanh-nghiep-han-quoc-nam-2024/71187",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-nhan-hoc-bong-brother-nam-hoc-2024-2025/71175",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-dat-giai-tai-cuoc-thi-sinh-vien-thong-thai-2024/71167",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/chi-bo-khoa-cong-nghe-thong-tin-to-chuc-ket-nap-dang-vien-cho-06-sinh-vien-xuat-sac/71160",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-vinh-du-don-nhan-bang-khen-cua-chu-tich-thanh-pho-ha-noi-vi-da-co-thanh-tich-tai-ky-thi-ky-nang-nghe-thanh-pho-ha-noi-nam-2023/71156",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/chang-trai-nganh-cong-nghe-thong-tin-la-tam-guong-sang-cho-sinh-vien/71148",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/cuu-sinh-vien-khoa-cong-nghe-thong-tin-thanh-cong-tu-niem-dam-me/71147",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-xuat-sac-hoan-thanh-khoa-dao-tao-sy-quan-du-bi-nam-2024/71146",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-xuat-sac-vuot-qua-vong-qualifying-round-cuoc-thi-lap-trinh-lg-dream-code-2024/71136",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/hoc-bong/thong-bao-tuyen-sinh-chuong-trinh-thac-si-tai-dai-loan/70760",
+        "title": "",
+        "category": "hoc-bong"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/doi-olympic-tin-hoc/70796",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/cau-lac-bo-the-thao-dien-tu-hec/70795",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/bo-phan-truyen-thong-khoa-cntt-fit-media/67474",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/doi-thanh-nien-tinh-nguyen-khoa-cntt/67477",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/doi-ho-tro-ky-thuat-it-supporter-haui/67476",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/doi-nghe-thuat-istar/67475",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/cau-lac-bo/cau-lac-bo-tin-hoc-truong-dai-hoc-cong-nghiep-ha-noi-hit-haui-information-technology/67473",
+        "title": "",
+        "category": "cau-lac-bo"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/nguyen-tien-duy-giai-dac-biet-top-4-naprock-procon-nhat-ban-2023-hang-muc-competition-va-uoc-mo-tro-thanh-lap-trinh-vien-chat-luong-cao/71048",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-khoa-cong-nghe-thong-tin-truong-dai-hoc-cong-nghiep-ha-noi-dat-hoc-bong-sinh-vien-xuat-sac-chuong-trinh-sic-2023-2024/71031",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/nguyen-thi-lan-can-bo-doan-tieu-bieu-trong-cac-phong-trao-thanh-nien-sinh-vien-cua-khoa/70967",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/sinh-vien-tieu-bieu-khoa-cong-nghe-thong-tin-voi-hanh-trinh-lam-theo-loi-bac/70938",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/guong-sang/hoc-bong-la-phan-thuong-xung-dang-cho-no-luc-cua-sinh-vien/70891",
+        "title": "",
+        "category": "guong-sang"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/sinh-vien-khoa-cong-nghe-thong-tin-dat-nhieu-giai-cao-tai-le-tong-ket-va-trao-giai-hoi-nghi-sinh-vien-nghien-cuu-khoa-hoc-lan-thu-xiii-nam-hoc-2021-2022/70635",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/hoi-thao-khoa-hoc-cong-nghe-phan-mem-khoa-hoc-du-lieu-nam-2022/70632",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/chuong-trinh-tinh-nguyen-vi-cong-dong-2022/70626",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/thong-tin-tuyen-sinh-dao-tao-trinh-do-thac-si-nam-2022/70619",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/tu-van-tuyen-sinh-truc-tuyen-nhom-nganh-cong-nghe-thong-tin-nam-2022/70615",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/haui-orientation-huong-di-dung-cho-sinh-vien-it/68561",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/sinh-vien-khoa-cntt-hao-hung-tham-gia-hoi-thao-cyber-security-cua-cong-ty-hcl-viet-nam/68551",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/ducapital-holding-trao-tang-den-hoc-thong-minh-cho-sinh-vien-dai-hoc-cong-nghiep-ha-noi/68550",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/sinh-vien-haui-dat-thanh-tich-cao-tai-cuoc-thi-olympic-tin-hoc-sinh-vien-viet-nam-lan-thu-30/68543",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/company-tour-online-cung-vti-academy-mo-mang-kien-thuc-cho-sinh-vien/67530",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/sinh-vien-khoa-cong-nghe-thong-tin-danh-huy-chuong-vang-tai-ky-thi-ky-nang-nghe-quoc-gia-lan-thu-xi-nam-2020/66310",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/it-supporter-fit-haui-ky-niem-6-nam-thanh-lap-va-phat-trien/66308",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/trao-giai-sinh-vien-nghien-cuu-khoa-hoc-nam-2020/66306",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/fit-news-5-6-2020/66305",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tin-tuc/sinh-vien-khoa-cong-nghe-thong-tin-nhan-hoc-bong-sun-scholarship/64300",
+        "title": "",
+        "category": "tin-tuc"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/cong-ty-gameloft-tuyen-thuc-tap-sinh-developer-2024/71206",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/trung-tam-nghien-cuu-va-phat-trien-samsung-viet-nam-srv-tai-ha-noi-thong-bao-tuyen-dung-ky-su-lap-trinh/71184",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/cong-ty-nashtech-tuyen-dung-thuc-tap-sinh-nam-2024/71173",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/thong-bao-to-chuc-chuong-trinh-hoi-thao-phong-van-thuc-tap-tuyen-dung-cua-cong-ty-tnhh-lg-innotek-viet-nam-hai-phong-thu-3-ngay-12-11-2024/71138",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/cong-ty-tnhh-samsung-electronics-viet-nam-thong-bao-chuong-trinh-tuyen-thuc-tap-sinh-dot-2-nam-2024/71120",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/tct-giai-phap-doanh-nghiep-viettel-tuyen-dung-nhan-su-nganh-cong-nghe-thong-tin/65305",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/cong-ty-tnhh-linxhq-tuyen-dung/64302",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/cong-ty-tnhh-hitech-viet-nam-tuyen-dung/64301",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/thong-tin-tuyen-dung-thang-9-2019/62287",
+        "title": "",
+        "category": "tuyen-dung"
+    },
+    {
+        "url": "https://fit.haui.edu.vn/vn/tuyen-dung/cong-ty-simba-technology-thong-bao-tuyen-nhan-su/62191",
+        "title": "",
+        "category": "tuyen-dung"
+    }
+]
