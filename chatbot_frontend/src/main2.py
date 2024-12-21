@@ -2,8 +2,7 @@ import streamlit as st
 import requests
 import math
 import os
-from streamlit.runtime.scriptrunner.script_run_context import get_script_run_ctx
-
+import uuid
 # Adjust API URLs as needed
 API_URL = "http://localhost:8081"  # Base URL without /documentsCHATBOT_URL = "http://localhost:8000/chatbot/docs-rag-agent"
 CHATBOT_URL = "http://localhost:8081/docs-rag-agent"  # Direct endpoint
@@ -14,13 +13,11 @@ if 'current_file_id' not in st.session_state:
     st.session_state.current_file_id = ""
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if 'session_id' not in st.session_state:
+    st.session_state.session_id = str(uuid.uuid4())
 
 def get_session_id():
-    ctx = get_script_run_ctx()
-    if ctx is not None:
-        return ctx.session_id
-    else:
-        return "default_session"
+    return st.session_state.get("session_id", "default_session")
 
 # Main Title
 st.title("Multi-Screen Application")
