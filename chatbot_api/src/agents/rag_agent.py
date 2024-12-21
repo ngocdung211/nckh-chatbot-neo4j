@@ -26,7 +26,7 @@ model = get_model_function()
 @tool 
 def get_chunk_tool(question: str) -> str:
     "Search for information about the 'Đoàn thanh niên, hội sinh viên' . For any questions in the about 'Đoàn thành niên, hội sinh viên', you must use this tool!"
-    result =  get_chunk_retriever(name='phobert').invoke(question)
+    result =  get_chunk_retriever(name='openai').invoke(question)
     print(result)
     return result
 
@@ -63,7 +63,6 @@ agent_prompt = ChatPromptTemplate.from_messages(
             2. Yêu cầu bắt buộc:
                 •	Giới hạn thông tin:
                 •	Nếu thông tin không có trong tài liệu, trả lời rằng “Tôi không có thông tin này” và khuyến nghị người dùng tham khảo nguồn khác.
-                •	Nếu câu hỏi không thuộc lĩnh vực Đoàn Thanh niên, thông báo rằng câu hỏi nằm ngoài phạm vi hỗ trợ.
 
             3. Hướng dẫn sử dụng công cụ:
                 LƯU Ý: Bạn phải sử dụng công cụ để truy vấn dữ liệu và trả lời dựa trên kết quả truy vấn đó
