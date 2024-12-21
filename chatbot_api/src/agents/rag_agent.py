@@ -26,7 +26,7 @@ model = get_model_function()
 @tool 
 def get_chunk_tool(question: str) -> str:
     "Search for information about the 'Đoàn thanh niên, hội sinh viên' . For any questions in the about 'Đoàn thành niên, hội sinh viên', you must use this tool!"
-    result =  get_chunk_retriever(name='openai').invoke(question)
+    result =  get_chunk_retriever(name='phobert').invoke(question)
     print(result)
     return result
 
@@ -109,7 +109,6 @@ rag_agent = (
         "agent_scratchpad": lambda x: format_to_openai_tool_messages(
             x["intermediate_steps"]
         ),
-        "chat_history": lambda x: x["chat_history"],
         
     }
     | agent_prompt
@@ -125,11 +124,9 @@ rag_agent_executor = AgentExecutor(
     handle_parsing_errors=True,
 )
 
-chat_agent = RunnableWithMessageHistory(
-    rag_agent_executor,
-    get_memory,
-    input_messages_key="input",
-    history_messages_key="chat_history",
-)
+# chat_agent = RunnableWithMessageHistory(
+#     rag_agent_executor,
+#     input_messages_key="input"
+# )
 def get_agent():
-    return chat_agent
+    return rag_agent_executor
