@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 import uuid
 import logging
 import asyncio
+from clean_text import clean_text
 
 load_dotenv()
 
@@ -55,10 +56,9 @@ class Neo4jClient:
         prev_chunk_id = None
         for chunk in chunks:
             # Construct a unique chunk_id based on file_id and chunk["chunk_id"]
-            page_number = chunk.metadata['page'] # could be None or an integer
-            element_id = chunk.metadata['CreationDate']
+            page_number = chunk.metadata.get('page')# could be None or an integer
             c_id = f"{filename} +page_+{page_number}_{uuid.uuid4()} "
-            text = chunk.page_content # Ensure consistency with chunking function
+            text = clean_text(chunk.page_content) # Ensure consistency with chunking function
 
             await tx.run("""
             MATCH (f:File {file_id: $file_id})
@@ -77,6 +77,7 @@ class Neo4jClient:
             prev_chunk_id = c_id
         
         logger.info(f"Inserted {len(chunks)} chunks for file_id: {file_id}")
+    
 
     async def list_files(self):
         query = """

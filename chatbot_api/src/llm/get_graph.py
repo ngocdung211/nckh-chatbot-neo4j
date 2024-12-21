@@ -22,6 +22,7 @@ def get_graph_function():
     graph = Neo4jGraph(
             url=graph_url,
             username=graph_username,
-            password=graph_password
+            password=graph_password,
+            enhanced_schema=True
         )
     return graph

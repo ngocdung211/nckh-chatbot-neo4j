@@ -35,7 +35,7 @@ def get_model_function():
     model = ChatOpenAI(
         openai_api_key=api_key,
         model=model_name,
-        temperature=0,
+        temperature=0.1,
     )
     return model
 
@@ -50,8 +50,8 @@ def generate_test_model_function():
     # Create and return the chat model object
     model = ChatOpenAI(
         openai_api_key=api_key,
-        model=model_name,
-        temperature=0,
+        model='gpt-4o-mini',
+        temperature=0.1,
     )
     return model
 
@@ -66,7 +66,7 @@ def get_eval_model_function():
     # Create and return the chat model object
     model = ChatOpenAI(
         openai_api_key=api_key,
-        model='gpt-4o',
+        model='gpt-4o-mini',
         temperature=0,
     )
     return model
