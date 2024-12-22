@@ -74,7 +74,7 @@ def get_chunk_retriever(name):
     if name in neo4j_vector_indexes:
         return neo4j_vector_indexes[name].as_retriever(
             search_type="similarity_score_threshold", 
-            search_kwargs={'score_threshold': 0.7}
+            search_kwargs={'score_threshold': 0.7, 'k':2}
         )
     else:
         raise ValueError(
