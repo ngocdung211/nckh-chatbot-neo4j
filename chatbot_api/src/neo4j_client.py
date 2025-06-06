@@ -49,6 +49,17 @@ class Neo4jClient:
     @staticmethod
     async def _create_file_and_chunks_tx(tx, file_id, filename, chunks, link="demo_link"):
         # Create the File node
+        result = await tx.run("""
+        MATCH (f:File {link: $link})
+        RETURN f
+        """, link=link)
+        existing_file = await result.single()
+        
+        # If the link exists, skip the creation
+        if existing_file:
+            logger.info(f"File with link '{link}' already exists. Skipping creation.")
+            return
+
         await tx.run("""
         CREATE (f:File {file_id: $file_id, filename: $filename, link: $link, upload_date: datetime() })
         """, file_id=file_id, filename=filename, link=link)

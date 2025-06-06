@@ -1,10 +1,14 @@
 import os
 import requests
 import streamlit as st
-from streamlit.runtime.scriptrunner.script_run_context import get_script_run_ctx
+import uuid
+
+
+if 'session_id' not in st.session_state:
+    st.session_state.session_id = str(uuid.uuid4())
 
 def get_session_id():
-    return get_script_run_ctx().session_id
+    return st.session_state.get("session_id", "default_session")
 
 CHATBOT_URL = os.getenv("CHATBOT_URL", "http://localhost:8081/docs-rag-agent")
 

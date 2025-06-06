@@ -23,7 +23,7 @@ def get_session_id():
 st.title("Multi-Screen Application")
 
 # Sidebar Navigation
-main_action = st.sidebar.selectbox("Navigate to", ["Document Management", "Chatbot"])
+main_action = st.sidebar.selectbox("Navigate to", ["Chatbot", "Document Management" ])
 
 # ============================
 # Document Management Screen
